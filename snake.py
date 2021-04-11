@@ -44,7 +44,6 @@ while (gameloop):
 
     # dice rolling
     diceroll = randint(1,6)
-    print(diceroll)
 
     # moving player 1
     player1pos = player1pos + diceroll

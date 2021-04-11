@@ -27,6 +27,49 @@
 </p>
 
 
+# snake-and-ladder-python
+
+A simple game of snakes and ladders created on `Python 3.7.6`.
+
+# Installation
+
+### Dependencies
+
+- `Python 3.7.6`
+- `termcolor 1.1.0`
+
+### Setup
+
+1. Install `Python 3.7.6`
+
+2. Install and activate the virtual environment
+```
+pip install virtualenv
+```
+
+3. Enter the main directory.
+
+```
+# on linux/macOS
+source env/bin/activate
+# on windows
+env\bin\activate
+```
+
+Your command prompt should look something like this -
+
+```
+(env) $ 
+```
+
+4. Run it
+
+```
+(env) $ python Snakes.py
+```
+
+
+
 
 #
 
